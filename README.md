@@ -27,7 +27,7 @@
 
 
 Hello Rails Front-End" is a React-based application designed to serve as the user interface. It interacts with the 
-[Hello-raiils-backend]("http://localhost:3000/api/greeting"),  a Rails application that provides a random message API. The front-end utilizes this API to display messages to users."
+[Hello-raiils-backend](https://github.com/eudondian/hello-rails-back-end/tree/back-end),  a Rails application that provides a random message API. The front-end utilizes this API to display messages to users."
 
 ## 🛠 Built With <a name="built-with"></a>
 
